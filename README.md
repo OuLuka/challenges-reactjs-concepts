@@ -1,1 +1,1 @@
-# rocketseat-challenge-reactjs-concepts
+# challenge-reactjs-concepts
